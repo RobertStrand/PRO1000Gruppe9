@@ -1,4 +1,4 @@
-// All Javascript kode hentet fra chatGPT
+// All Javascript kode hentet fra PRO1000GPT
 
 var navbar = document.getElementById("navbar");
 var stickyNavbar = navbar.offsetTop;
